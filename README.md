@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/MuniruIssah/stats-preview-card)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://stats-preview-card-git-main-muniruissah.vercel.app/)
 
 ## My process
 
